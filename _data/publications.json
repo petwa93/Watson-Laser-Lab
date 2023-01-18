@@ -1,38 +1,750 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"id": "http://zotero.org/users/local/B27DxA0D/items/FFJYX7HC",
+		"type": "chapter",
+		"container-title": "Advances in Online Chemistry Education",
+		"license": "All rights reserved",
+		"page": "77–91",
+		"publisher": "ACS Publications",
+		"title": "A How-To Guide for Making Online Pre-laboratory Lightboard Videos",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Corkish",
+				"given": "Timothy R"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Davidson",
+				"given": "Max L"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Haakansson",
+				"given": "Christian T"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Lopez",
+				"given": "Ryan E"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Spagnoli",
+				"given": "Dino"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/VTHIYL5N",
+		"type": "article-journal",
+		"container-title": "Journal of Molecular Spectroscopy",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "111320",
+		"title": "Asymmetric halogen dioxides: High level calculations and anion photoelectron spectroscopy",
+		"volume": "372",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/KNGLIWVZ",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"license": "All rights reserved",
+		"publisher": "Honours Thesis, The University of Western Australia",
+		"title": "Anion Photoelectron Spectroscopy and Ab Initio Calculations of Asymmetric Halogen Dioxides",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/CGINN3QH",
+		"type": "article-journal",
+		"container-title": "Journal of Molecular Spectroscopy",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "111178",
+		"title": "Characterisation of gas phase halide-acetone complexes with photoelectron spectroscopy and ab initio calculations",
+		"volume": "364",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Damien",
+				"given": "B"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/6Y844SI4",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "13",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "1316–1320",
+		"title": "Towards an Understanding of Halide Interactions with the Carbonyl-Containing Molecule CH3CHO",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/IM98GBT3",
+		"type": "article-journal",
+		"container-title": "The Journal of Physical Chemistry A",
+		"license": "All rights reserved",
+		"note": "publisher: ACS Publications",
+		"title": "Photoelectron Spectroscopy and High-Level Ab Initio Calculations of the Iodide–Methylperoxy Radical Complex",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/JZ35JI77",
+		"type": "article-journal",
+		"container-title": "Chemical Physics Letters",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "139433",
+		"title": "Halides and the carbon-carbon double bond: Interactions of ethylene with bromide and iodide",
+		"volume": "793",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "B‘t Hart",
+				"given": "Damien"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/LPSPQUDR",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "9",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "808–812",
+		"title": "Spectroscopic investigation of chalcogen bonding: Halide–carbon disulfide complexes",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Tsui",
+				"given": "Terrence"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/JR9BHV3J",
+		"type": "article-journal",
+		"container-title": "The Journal of Physical Chemistry A",
+		"issue": "37",
+		"license": "All rights reserved",
+		"note": "publisher: ACS Publications",
+		"page": "9722–9728",
+		"title": "Halide–Nitrogen Gas-Phase Clusters: Anion Photoelectron Spectroscopy and High Level ab Initio Calculations",
+		"volume": "119",
+		"author": [
+			{
+				"family": "Lapere",
+				"given": "Kim ML"
+			},
+			{
+				"family": "Kettner",
+				"given": "Marcus"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/PN352HBH",
+		"type": "article-journal",
+		"container-title": "Chemical Physics Letters",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "138060",
+		"title": "The bromide-bromomethyl radical dimer complex: Anion photoelectron spectroscopy and CCSD (T) calculations",
+		"volume": "761",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/YC3PQQDU",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "1",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "69–75",
+		"title": "Photoelectron Spectroscopy and Structures of X-⋅⋅⋅ CH2O (X= F, Cl, Br, I) Complexes",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/5I7EN5FP",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "21",
+		"license": "All rights reserved",
+		"page": "e202200278",
+		"title": "Spectroscopic Study of the Br-+ CH3I→ I-+ CH3Br SN2 Reaction",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/H6WPYIWE",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "9",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "806–806",
+		"title": "Cover Feature: Spectroscopic Investigation of Chalcogen Bonding: Halide–Carbon Disulfide Complexes (ChemPhysChem 9/2021)",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Tsui",
+				"given": "Terrence"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/T432BG5C",
+		"type": "article-journal",
+		"container-title": "Chemical Physics Letters",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "119–124",
+		"title": "Anion photoelectron spectroscopy and CCSD (T) calculations of the Cl-⋯ N2 complex",
+		"volume": "654",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Yong",
+				"given": "Hai-wang"
+			},
+			{
+				"family": "Lapere",
+				"given": "Kim ML"
+			},
+			{
+				"family": "Kettner",
+				"given": "Marcus"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/W5SRKJX3",
+		"type": "article-journal",
+		"container-title": "Physical Chemistry Chemical Physics",
+		"issue": "40",
+		"license": "All rights reserved",
+		"note": "publisher: Royal Society of Chemistry",
+		"page": "24748–24758",
+		"title": "A tale of two conformers: spectroscopic evidence for halide catalysed formic acid isomerisation",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Brookes",
+				"given": "James R"
+			},
+			{
+				"family": "Adam",
+				"given": "Hannah C"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/XX6NGTCP",
+		"type": "article-journal",
+		"license": "All rights reserved",
+		"title": "Explorations of Photoelectron Spectroscopy",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/PT4QYE32",
+		"type": "article-journal",
+		"container-title": "Physical Chemistry Chemical Physics",
+		"issue": "42",
+		"license": "All rights reserved",
+		"note": "publisher: Royal Society of Chemistry",
+		"page": "25842–25852",
+		"title": "Halide–propene complexes: validated DSD-PBEP86-D3BJ calculations and photoelectron spectroscopy",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/5MUMSFTU",
+		"type": "article-journal",
+		"container-title": "The Journal of Physical Chemistry A",
+		"license": "All rights reserved",
+		"note": "publisher: ACS Publications",
+		"title": "An Infrared Study of Gas-Phase Metal Nitrosyl Ion–Molecule Complexes",
+		"author": [
+			{
+				"family": "Meizyte",
+				"given": "Gabriele"
+			},
+			{
+				"family": "Pearcy",
+				"given": "Philip AJ"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Brewer",
+				"given": "Edward I"
+			},
+			{
+				"family": "Green",
+				"given": "Alice E"
+			},
+			{
+				"family": "Doll",
+				"given": "Matthew"
+			},
+			{
+				"family": "Duda",
+				"given": "Olga A"
+			},
+			{
+				"family": "Mackenzie",
+				"given": "Stuart R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/96WEWMYT",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"license": "All rights reserved",
+		"title": "Hydrogen Bonding versus Halogen Bonding: Spectroscopic Investigation of Gas-Phase Complexes Involving Bromide and Chloromethanes",
+		"author": [
+			{
+				"family": "Robinson",
+				"given": "Hayden Thomas"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian Thrane"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy Robert"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter Daniel"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan James"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
 				]
 			]
 		}

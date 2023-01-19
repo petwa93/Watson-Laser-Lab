@@ -18,38 +18,38 @@ permalink: /publications/
                     style="color: inherit;">
                     {{item}}
         </div>
-        
+        <!--
             {% for publi in site.data.publications.item %}
                 <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
                 <div class="panel-body">
                     <!-- authors -->
-                    {% assign authors = "" | split:"/" %}
+                    <!--{% assign authors = "" | split:"/" %}
                     {% for author in publi.author %}
                         {% assign authors = authors | push: author.family %}
                     {% endfor %}
                     {{ authors | array_to_sentence_string }},
 
                     <!-- title with link -->
-                    "{{ publi.title }}",
+                    <!--"{{ publi.title }}",
 
                     <!-- container -->
-                    <b>{{ publi.container-title }}</b>
+                    <!-- <b>{{ publi.container-title }}</b>
 
                     <!-- issued date -->
-                    ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+                   <!--  ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
 
                     <!-- DOI -->
-                    {% if publi.DOI %}
+                    <!-- {% if publi.DOI %}
                         <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
                     {% endif %}
                     </a>
                     <!-- <p>{{ publi.abstract }}</p> -->
 
-                    <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
+                    <!-- <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
                     role="button" target="blank">Link</a>
                 </div>
             </div>
-        {% endfor %}
+        {% endfor %}-->
     {% endfor %}
     </div>
 </div>

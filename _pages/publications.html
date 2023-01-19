@@ -19,7 +19,7 @@ permalink: /publications/
                     {{item}}
         </div>
         
-            {% for publi in site.data.publications[item] %}
+            {% for publi in site.data.publications.item %}
                 <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
                 <div class="panel-body">
                     <!-- authors -->

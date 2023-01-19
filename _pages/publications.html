@@ -11,15 +11,15 @@ permalink: /publications/
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
-    {% for year in site.data.publications %}
+    {% for item in site.data.publications %}
         <div class="panel-heading">
                             <a data-toggle="collapse" data-parent="#accordion"
                     href="#collapse{{forloop.index}}"
                     style="color: inherit;">
-                    "{ year }"
+                    "{ item }"
         </div>
         
-            {% for publi in site.data.publications.{year} %}
+            {% for publi in site.data.publications[item] %}
                 <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
                 <div class="panel-body">
                     <!-- authors -->

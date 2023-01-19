@@ -1,0 +1,72 @@
+[
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/VTHIYL5N",
+		"type": "article-journal",
+		"container-title": "Journal of Molecular Spectroscopy",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "111320",
+		"title": "Asymmetric halogen dioxides: High level calculations and anion photoelectron spectroscopy",
+		"volume": "372",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/PN352HBH",
+		"type": "article-journal",
+		"container-title": "Chemical Physics Letters",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "138060",
+		"title": "The bromide-bromomethyl radical dimer complex: Anion photoelectron spectroscopy and CCSD (T) calculations",
+		"volume": "761",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	}
+]

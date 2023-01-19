@@ -10,7 +10,7 @@ permalink: /publications/
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-    {% assign years = [2020,2016,2015] %}
+    {% assign years = "2020,2016,2015" | split ',' %}
     {% for year in years %}
         <div class="panel-heading">
                             <a data-toggle="collapse" data-parent="#accordion"

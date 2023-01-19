@@ -1,0 +1,45 @@
+[
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/T432BG5C",
+		"type": "article-journal",
+		"container-title": "Chemical Physics Letters",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "119–124",
+		"title": "Anion photoelectron spectroscopy and CCSD (T) calculations of the Cl-⋯ N2 complex",
+		"volume": "654",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Yong",
+				"given": "Hai-wang"
+			},
+			{
+				"family": "Lapere",
+				"given": "Kim ML"
+			},
+			{
+				"family": "Kettner",
+				"given": "Marcus"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	}
+]  

@@ -1,0 +1,63 @@
+[
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/KNGLIWVZ",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"license": "All rights reserved",
+		"publisher": "Honours Thesis, The University of Western Australia",
+		"title": "Anion Photoelectron Spectroscopy and Ab Initio Calculations of Asymmetric Halogen Dioxides",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+  {
+		"id": "http://zotero.org/users/local/B27DxA0D/items/JR9BHV3J",
+		"type": "article-journal",
+		"container-title": "The Journal of Physical Chemistry A",
+		"issue": "37",
+		"license": "All rights reserved",
+		"note": "publisher: ACS Publications",
+		"page": "9722–9728",
+		"title": "Halide–Nitrogen Gas-Phase Clusters: Anion Photoelectron Spectroscopy and High Level ab Initio Calculations",
+		"volume": "119",
+		"author": [
+			{
+				"family": "Lapere",
+				"given": "Kim ML"
+			},
+			{
+				"family": "Kettner",
+				"given": "Marcus"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

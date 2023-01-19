@@ -22,8 +22,9 @@ permalink: /publications/
             
                 <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
                 <div class="panel-body">
-                    {% for publi in site.data.publications[year] %}
                     <ul>
+                    {% for publi in site.data.publications[year] %}
+                    <li>
                     <!-- authors -->
                     {% assign authors = "" | split:"/" %}
                     {% for author in publi.author %}
@@ -49,8 +50,9 @@ permalink: /publications/
 
                     <!--<a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
                     role="button" target="blank">Link</a>
-                    --> </ul>
+                    --> </li>
                     {% endfor %}
+                    </ul>
             </div>
         </div>
     {% endfor %}

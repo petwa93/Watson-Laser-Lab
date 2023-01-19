@@ -6,12 +6,18 @@ sitemap: false
 permalink: /publications/
 ---
 
+<script>
+    site.data.publictions.sort(function(a, b){
+    return a.issued.date-parts - b.issued.date-parts;
+});
+</script>
+
 <h1>{{page.title}}</h1>
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
-    {% for publi in site.data.publications %}
+    {% for publi in b %}
         <div class="panel-heading">
             <a data-toggle="collapse" data-parent="#accordion"
                href="#collapse{{forloop.index}}"

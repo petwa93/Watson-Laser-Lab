@@ -11,43 +11,45 @@ permalink: /publications/
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
-    {% for publi in site.data.publications %}
+    {% for year in site.data.publications %}
         <div class="panel-heading">
                             <a data-toggle="collapse" data-parent="#accordion"
                     href="#collapse{{forloop.index}}"
                     style="color: inherit;">
-                    Test
+                    "{ year }"
         </div>
+        
+            {% for publi in site.data.publications.{year} %}
+                <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <!-- authors -->
+                    {% assign authors = "" | split:"/" %}
+                    {% for author in publi.author %}
+                        {% assign authors = authors | push: author.family %}
+                    {% endfor %}
+                    {{ authors | array_to_sentence_string }},
 
-        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
-            <div class="panel-body">
-                <!-- authors -->
-                {% assign authors = "" | split:"/" %}
-                {% for author in publi.author %}
-                    {% assign authors = authors | push: author.family %}
-                {% endfor %}
-                {{ authors | array_to_sentence_string }},
+                    <!-- title with link -->
+                    "{{ publi.title }}",
 
-                <!-- title with link -->
-                "{{ publi.title }}",
+                    <!-- container -->
+                    <b>{{ publi.container-title }}</b>
 
-                <!-- container -->
-                <b>{{ publi.container-title }}</b>
+                    <!-- issued date -->
+                    ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
 
-                <!-- issued date -->
-                ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+                    <!-- DOI -->
+                    {% if publi.DOI %}
+                        <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+                    {% endif %}
+                    </a>
+                    <!-- <p>{{ publi.abstract }}</p> -->
 
-                <!-- DOI -->
-                {% if publi.DOI %}
-                    <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
-                {% endif %}
-                </a>
-                <!-- <p>{{ publi.abstract }}</p> -->
-
-                <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
-                   role="button" target="blank">Link</a>
+                    <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
+                    role="button" target="blank">Link</a>
+                </div>
             </div>
-        </div>
+        {% endfor %}
     {% endfor %}
     </div>
 </div>

@@ -10,8 +10,8 @@ permalink: /publications/
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-
-    {% for year in site.data.publications.years %}
+    {% assign years = [2020,2016,2015] %}
+    {% for year in years %}
         <div class="panel-heading">
                             <a data-toggle="collapse" data-parent="#accordion"
                     href="#collapse{{forloop.index}}"

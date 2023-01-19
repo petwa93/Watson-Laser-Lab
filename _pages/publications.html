@@ -37,7 +37,7 @@ permalink: /publications/
                     <b>{{ publi.container-title }}</b>
 
                     <!-- issued date -->
-                    ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+                    ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}).
 
                     <!-- DOI -->
                     {% if publi.DOI %}

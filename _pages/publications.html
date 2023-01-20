@@ -46,13 +46,13 @@ permalink: /publications/
                         <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
                     {% endif %}
                     </a>
-                    <p>{{ publi.abstract }}</p>
                     
                     <!-- PDF -->
                     {% if publi.PDFurl %}
                         <a href="https://www.watsonlaserlab.com/assets/{{publi.PDFurl}}">PDF</a>
                     {% endif %}
                     </a>
+                    <p>{{ publi.abstract }}</p>
 
                     <!--<a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
                     role="button" target="blank">Link</a>

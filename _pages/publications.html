@@ -15,7 +15,7 @@ permalink: /publications/
         <div class="panel-heading">
                             <a data-toggle="collapse" data-parent="#accordion"
                     href="#collapse{{forloop.index}}"
-                    >
+                    style="color: inherit;">
                     <b>{{year}}</b>
         </div>
         
@@ -47,6 +47,12 @@ permalink: /publications/
                     {% endif %}
                     </a>
                     <p>{{ publi.abstract }}</p>
+                    
+                    <!-- PDF -->
+                    {% if publi.PDFurl %}
+                        <a href="{{publi.PDFurl}}">PDF</a>
+                    {% endif %}
+                    </a>
 
                     <!--<a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
                     role="button" target="blank">Link</a>

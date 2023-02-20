@@ -1,0 +1,84 @@
+[
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/FFJYX7HC",
+		"type": "chapter",
+		"container-title": "Advances in Online Chemistry Education",
+		"license": "All rights reserved",
+		"page": "77–91",
+		"publisher": "ACS Publications",
+		"title": "A How-To Guide for Making Online Pre-laboratory Lightboard Videos",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Davidson",
+				"given": "Max L"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Lopez",
+				"given": "Ryan E"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Spagnoli",
+				"given": "Dino"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/CGINN3QH",
+		"type": "article-journal",
+		"container-title": "Journal of Molecular Spectroscopy",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "111178",
+		"title": "Characterisation of gas phase halide-acetone complexes with photoelectron spectroscopy and ab initio calculations",
+		"volume": "364",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Damien",
+				"given": "B"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	}
+]

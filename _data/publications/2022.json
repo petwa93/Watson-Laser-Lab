@@ -5,6 +5,7 @@
 		"container-title": "The Journal of Physical Chemistry A",
 		"license": "All rights reserved",
 		"note": "publisher: ACS Publications",
+		"DOI": "10.1021/acs.jpca.2c00299",
 		"title": "Photoelectron Spectroscopy and High-Level Ab Initio Calculations of the Iodide–Methylperoxy Radical Complex",
 		"author": [
 			{
@@ -36,6 +37,7 @@
 		"license": "All rights reserved",
 		"note": "publisher: Elsevier",
 		"page": "139433",
+		"DOI": "10.1016/j.cplett.2022.139433",
 		"title": "Halides and the carbon-carbon double bond: Interactions of ethylene with bromide and iodide",
 		"volume": "793",
 		"author": [
@@ -80,6 +82,7 @@
 		"issue": "21",
 		"license": "All rights reserved",
 		"page": "e202200278",
+		"DOI": "10.1002/cphc.202200278",
 		"title": "Spectroscopic Study of the Br-+ CH3I→ I-+ CH3Br SN2 Reaction",
 		"volume": "23",
 		"author": [
@@ -125,6 +128,7 @@
 		"license": "All rights reserved",
 		"note": "publisher: Royal Society of Chemistry",
 		"page": "24748–24758",
+		"DOI": "10.1039/D2CP03634G",
 		"title": "A tale of two conformers: spectroscopic evidence for halide catalysed formic acid isomerisation",
 		"volume": "24",
 		"author": [
@@ -178,6 +182,7 @@
 		"license": "All rights reserved",
 		"note": "publisher: Royal Society of Chemistry",
 		"page": "25842–25852",
+		"DOI": "10.1039/D2CP03796C",
 		"title": "Halide–propene complexes: validated DSD-PBEP86-D3BJ calculations and photoelectron spectroscopy",
 		"volume": "24",
 		"author": [
@@ -217,6 +222,7 @@
 		"container-title": "The Journal of Physical Chemistry A",
 		"license": "All rights reserved",
 		"note": "publisher: ACS Publications",
+		"DOI": "10.1021/acs.jpca.2c07228",
 		"title": "An Infrared Study of Gas-Phase Metal Nitrosyl Ion–Molecule Complexes",
 		"author": [
 			{
@@ -266,6 +272,7 @@
 		"type": "article-journal",
 		"container-title": "ChemPhysChem",
 		"license": "All rights reserved",
+		"DOI": "10.1002/cphc.202200733",
 		"title": "Hydrogen Bonding versus Halogen Bonding: Spectroscopic Investigation of Gas-Phase Complexes Involving Bromide and Chloromethanes",
 		"author": [
 			{

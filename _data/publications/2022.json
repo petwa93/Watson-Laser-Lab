@@ -1,0 +1,324 @@
+[
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/IM98GBT3",
+		"type": "article-journal",
+		"container-title": "The Journal of Physical Chemistry A",
+		"license": "All rights reserved",
+		"note": "publisher: ACS Publications",
+		"title": "Photoelectron Spectroscopy and High-Level Ab Initio Calculations of the Iodide–Methylperoxy Radical Complex",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/JZ35JI77",
+		"type": "article-journal",
+		"container-title": "Chemical Physics Letters",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "139433",
+		"title": "Halides and the carbon-carbon double bond: Interactions of ethylene with bromide and iodide",
+		"volume": "793",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "B‘t Hart",
+				"given": "Damien"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/5I7EN5FP",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "21",
+		"license": "All rights reserved",
+		"page": "e202200278",
+		"title": "Spectroscopic Study of the Br-+ CH3I→ I-+ CH3Br SN2 Reaction",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/W5SRKJX3",
+		"type": "article-journal",
+		"container-title": "Physical Chemistry Chemical Physics",
+		"issue": "40",
+		"license": "All rights reserved",
+		"note": "publisher: Royal Society of Chemistry",
+		"page": "24748–24758",
+		"title": "A tale of two conformers: spectroscopic evidence for halide catalysed formic acid isomerisation",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Brookes",
+				"given": "James R"
+			},
+			{
+				"family": "Adam",
+				"given": "Hannah C"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/PT4QYE32",
+		"type": "article-journal",
+		"container-title": "Physical Chemistry Chemical Physics",
+		"issue": "42",
+		"license": "All rights reserved",
+		"note": "publisher: Royal Society of Chemistry",
+		"page": "25842–25852",
+		"title": "Halide–propene complexes: validated DSD-PBEP86-D3BJ calculations and photoelectron spectroscopy",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/5MUMSFTU",
+		"type": "article-journal",
+		"container-title": "The Journal of Physical Chemistry A",
+		"license": "All rights reserved",
+		"note": "publisher: ACS Publications",
+		"title": "An Infrared Study of Gas-Phase Metal Nitrosyl Ion–Molecule Complexes",
+		"author": [
+			{
+				"family": "Meizyte",
+				"given": "Gabriele"
+			},
+			{
+				"family": "Pearcy",
+				"given": "Philip AJ"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Brewer",
+				"given": "Edward I"
+			},
+			{
+				"family": "Green",
+				"given": "Alice E"
+			},
+			{
+				"family": "Doll",
+				"given": "Matthew"
+			},
+			{
+				"family": "Duda",
+				"given": "Olga A"
+			},
+			{
+				"family": "Mackenzie",
+				"given": "Stuart R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/96WEWMYT",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"license": "All rights reserved",
+		"title": "Hydrogen Bonding versus Halogen Bonding: Spectroscopic Investigation of Gas-Phase Complexes Involving Bromide and Chloromethanes",
+		"author": [
+			{
+				"family": "Robinson",
+				"given": "Hayden Thomas"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian Thrane"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy Robert"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter Daniel"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan James"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/XX6NGTCP",
+		"type": "article-journal",
+		"license": "All rights reserved",
+		"title": "Explorations of Photoelectron Spectroscopy",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	}
+]

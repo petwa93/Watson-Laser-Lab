@@ -1,0 +1,185 @@
+[
+	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/6Y844SI4",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "13",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "1316–1320",
+		"title": "Towards an Understanding of Halide Interactions with the Carbonyl-Containing Molecule CH3CHO",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/LPSPQUDR",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "9",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "808–812",
+		"title": "Spectroscopic investigation of chalcogen bonding: Halide–carbon disulfide complexes",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Tsui",
+				"given": "Terrence"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+  
+  	{
+		"id": "http://zotero.org/users/local/B27DxA0D/items/YC3PQQDU",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "1",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "69–75",
+		"title": "Photoelectron Spectroscopy and Structures of X-⋅⋅⋅ CH2O (X= F, Cl, Br, I) Complexes",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+  
+  {
+		"id": "http://zotero.org/users/local/B27DxA0D/items/H6WPYIWE",
+		"type": "article-journal",
+		"container-title": "ChemPhysChem",
+		"issue": "9",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley Online Library",
+		"page": "806–806",
+		"title": "Cover Feature: Spectroscopic Investigation of Chalcogen Bonding: Halide–Carbon Disulfide Complexes (ChemPhysChem 9/2021)",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Robinson",
+				"given": "Hayden T"
+			},
+			{
+				"family": "Tsui",
+				"given": "Terrence"
+			},
+			{
+				"family": "McKinley",
+				"given": "Allan J"
+			},
+			{
+				"family": "Wild",
+				"given": "Duncan A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	}
+]

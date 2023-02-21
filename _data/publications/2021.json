@@ -185,5 +185,48 @@
 				]
 			]
 		}
+	},
+  {
+		"id": "http://zotero.org/users/local/B27DxA0D/items/FFJYX7HC",
+		"type": "chapter",
+		"container-title": "Advances in Online Chemistry Education",
+		"license": "All rights reserved",
+		"page": "77–91",
+		"DOI": "10.1021/bk-2021-1389.ch006",
+		"publisher": "ACS Publications",
+		"title": "A How-To Guide for Making Online Pre-laboratory Lightboard Videos",
+		"author": [
+			{
+				"family": "Corkish",
+				"given": "Timothy R"
+			},
+			{
+				"family": "Davidson",
+				"given": "Max L"
+			},
+			{
+				"family": "Haakansson",
+				"given": "Christian T"
+			},
+			{
+				"family": "Lopez",
+				"given": "Ryan E"
+			},
+			{
+				"family": "Watson",
+				"given": "Peter D"
+			},
+			{
+				"family": "Spagnoli",
+				"given": "Dino"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
 	}
 ]
